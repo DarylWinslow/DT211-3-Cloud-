@@ -1,0 +1,4 @@
+The 'isprime' function checks if a number is prime.
+
+The while loop checks every number to see if it is prime. If so, it increments the 'prime' variable.
+It continues until it finds the 10001st prime number and then prints it to the screen
