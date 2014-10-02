@@ -1,0 +1,1 @@
+The while loop checks every number until it finds the largest number that will divide into 'n'
